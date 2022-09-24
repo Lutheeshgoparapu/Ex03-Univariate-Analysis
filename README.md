@@ -27,7 +27,7 @@ Do plots like boxplots,countplot,distribution plot,histogram plot.
     
 # Program
 ```
-Developed by : G>LUTHEESH
+Developed by : G.LUTHEESH
 Registration Number : 212221230029
 ```
 ```
